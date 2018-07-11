@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cricket Score Keeper</string>
+    <string name="title_msg">Lets Start the Match&#8230;</string>
+    <string name="title_img">An image showing app logo</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="runs">Runs</string>
+    <string name="zero">0</string>
+    <string name="wickets">Wickets</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">four</string>
+    <string name="six">six</string>
+    <string name="extras">add to extras</string>
+    <string name="overs">Overs</string>
+    <string name="reset">Reset</string>
+    <string name="finish">Finish</string>
+    <string name="wicket">wicket</string>
+    <string name="dot">Dot Ball</string>
+    <string name="after10W_ArunsClicked">Team A is all out, cannot score more runs.</string>
+    <string name="after10W_wicketClicked">There can\'t be more than 10 wickets.</string>
+    <string name="after10W_BrunsClicked">Team B is all out, cannot score more runs.</string>
+    <string name="teamAwon">Team A has Won the Match.</string>
+    <string name="teamBwon">Team B has Won the Match.</string>
+    <string name="drawMatch">This Match ended in a draw.</string>
+
+</resources>
